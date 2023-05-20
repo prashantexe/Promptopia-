@@ -1,13 +1,19 @@
 import '@styles/global.css'
 
-export
+export const metadata = {
+  title: "Promptopia",
+  description: "Discover & share AI Prompts"
+}
 
 const layout = () => {
   return (
-    <div>
-      Layout
-    </div>
+    <html lang ="en">
+      <body>
+        
+      </body>
+    </html>
   )
 }
 
 export default layout
+ 
